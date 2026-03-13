@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BA-PROTOCOLO-FISCAL-PENDENTE:jar">
+    <output-path>$PROJECT_DIR$/../jars/BA-PROTOCOLO-FISCAL-PENDENTE</output-path>
+    <root id="archive" name="BA-PROTOCOLO-FISCAL-PENDENTE.jar">
+      <element id="module-output" name="BA-PROTOCOLO-FISCAL-PENDENTE" />
+    </root>
+  </artifact>
+</component>
